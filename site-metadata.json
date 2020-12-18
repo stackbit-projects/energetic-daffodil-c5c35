@@ -3,13 +3,7 @@
     "header": {
         "title": "",
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            }
-        ]
+        "nav_links": []
     },
     "footer": {
         "has_nav": true,
